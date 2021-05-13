@@ -2,6 +2,4 @@ from flask import Flask
 
 app = Flask(__name__) 
 
-@app.route("/")
-def index():
-    return "Funciona"
+from covid import views
