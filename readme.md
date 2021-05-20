@@ -10,3 +10,6 @@ Duplicar el fichero `.env_template` y renombrar a `.env`
 los valores deben ser:
 - FLASK_APP=run.py
 - FLASK_ENV= el que querais
+
+
+Ejectutar ´flask run´
